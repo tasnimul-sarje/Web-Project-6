@@ -1,0 +1,144 @@
+.box{
+	border:5px solid black;
+	width:200px;
+	padding:20px 50px 20px 50px;
+	margin:40px 60px;
+}
+
+.header1{
+	height:80px;
+	background-color:lightcoral;
+}
+
+
+.header2{
+	max-height:80px;
+	background-color:lightgreen;
+}
+
+
+.header3{
+	min-height:80px;
+	background-color:lightblue;
+}
+
+
+
+.header{
+	height:100px;
+	background-color:red;
+}
+
+.container{
+	
+}
+
+.blog{
+	height:100px;
+	background-color:green;
+}
+
+.contact{
+	height:100px;
+	background-color:blue;
+}
+
+
+
+.header11{
+	height:200px;
+	background-color:#8e1d1d;
+}
+
+.container12{
+	overflow:hidden;
+	border:10px solid black;
+}
+
+.blog13{
+	float:left;
+	width:50%;
+	height:150px;
+	background-color:#7e37a3;
+	box-sizing:border-box;
+	border:7px solid #0b5394;
+
+}
+
+.contact14{
+	float:right;
+	width:50%;
+	height:150px;
+	background-color:#211a96;
+	box-sizing:border-box;
+	border:10px solid #9fc5e8;
+}
+
+
+
+.wrapper{
+	overflow:hidden;
+}
+
+.item1{
+	float:left;
+	width:33.33%;
+	height:150px;
+	background-color:#2cb444;
+}
+
+.item2{
+	float:left;
+	width:33.33%;
+	height:150px;
+	background-color:tomato;
+}
+
+.item3{
+	float:left;
+	width:33.33%;
+	height:150px;
+	background-color:teal;
+}
+
+
+
+.header21{
+	height:100px;
+	background-color:blue;
+}
+
+.container22{
+	
+}
+
+.blog23{
+	height:100px;
+	background-color:green;
+}
+
+.contact24{
+	height:100px;
+	background-color:red;
+}
+
+
+
+.footer{
+	
+	height:200px;
+	background-color:#163611;
+}
+
+
+
+/*just for practice*/
+
+selector{
+	display:none;
+	display:inline;
+	display:block;
+	display:inline-block;
+}
+
+
